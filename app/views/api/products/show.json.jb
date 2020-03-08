@@ -1,0 +1,6 @@
+{
+  id: @product.id,
+  name: @product.name,
+  abv: @product.abv,
+  style: @product.style,
+}
